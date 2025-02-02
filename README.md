@@ -122,9 +122,6 @@ curl -X DELETE http://localhost:8000/api/faqs/1/
 ```
 
 ## Additional Notes
-WYSIWYG Editor: This project uses django-ckeditor for editing FAQ answers.
-Caching: Redis caching is used for faster API responses.
-Multi-language Support: The system supports multiple languages, and FAQ answers can be translated accordingly.
 Testing: Unit tests are provided in faq/tests.py using pytest.
 
 `Name: Anant Agarwal
